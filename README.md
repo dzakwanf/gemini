@@ -8,9 +8,10 @@ LLM memungkinkan Anda untuk menjalankan prompt dari baris perintah, menyimpan ha
 
 ## Fitur
 
-Interaksi dengan LLM jarak jauh, termasuk OpenAI GPT-3, Jurassic-1 Jumbo, dan Megatron-Turing NLG
-Dukungan untuk model bahasa besar yang dihosting sendiri
-Kemampuan untuk menyimpan hasil dalam SQLite
-Pembuatan embeddings
-Alat untuk membangun mesin pencari gambar dengan LLM
-Fitur obrolan dengan model LLM
+- Menjawab pertanyaan Anda tentang berbagai topik.
+- Memberikan informasi tentang berbagai topik.
+- Menerjemahkan teks dari satu bahasa ke bahasa lain.
+- Membuat ringkasan teks.
+- Membuat puisi atau cerita pendek.
+- Bermain game dengan Anda.
+- Dan masih banyak lagi!
