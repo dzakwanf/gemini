@@ -21,6 +21,9 @@ st.set_page_config(
 #HEADER
 st.markdown('''
 Dzakwan Virtual Asisten <img src="https://media.licdn.com/dms/image/D5612AQG9Nqvmoflq0w/article-cover_image-shrink_720_1280/0/1701946062293?e=2147483647&v=beta&t=twRjPJKC7J3jKxyHrsjWIle1XExVugMq8WCXwxkjuj0" width="20" height="20">
+
+.css-1jc7ptx, .e1ewe7hr3, .viewerBadge_container__1QSob, .styles_viewerBadge__1yB5_, .viewerBadge_link__1S137, .viewerBadge_text__1JaDK{ display: none; } #MainMenu{ visibility: hidden; } footer { visibility: hidden; } header { visibility: hidden; }
+
 ''', unsafe_allow_html=True)
 st.caption("By Dzakwan Falih")
 st.subheader('Dzakwan Virtual Asisten', divider='rainbow')
@@ -290,8 +293,4 @@ if prompt:
 
 
 #st.session_state.chat_session
-hide_github_icon = """
 
-.css-1jc7ptx, .e1ewe7hr3, .viewerBadge_container__1QSob, .styles_viewerBadge__1yB5_, .viewerBadge_link__1S137, .viewerBadge_text__1JaDK{ display: none; } #MainMenu{ visibility: hidden; } footer { visibility: hidden; } header { visibility: hidden; }
-"""
-st.markdown(hide_github_icon, unsafe_allow_html=True)
