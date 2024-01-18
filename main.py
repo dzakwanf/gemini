@@ -43,6 +43,11 @@ st.markdown(hide_decoration_bar_style, unsafe_allow_html=True)
 hide_streamlit_footer = """<style>#MainMenu {visibility: hidden;}
                         footer {visibility: hidden;}</style>"""
 st.markdown(hide_streamlit_footer, unsafe_allow_html=True)
+st.markdown('''
+Dzakwan Virtual Asisten <img src="https://media.licdn.com/dms/image/D5612AQG9Nqvmoflq0w/article-cover_image-shrink_720_1280/0/1701946062293?e=2147483647&v=beta&t=twRjPJKC7J3jKxyHrsjWIle1XExVugMq8WCXwxkjuj0" width="20" height="20">
+''', unsafe_allow_html=True)
+st.caption("By Dzakwan Falih")
+st.subheader('Dzakwan Virtual Asisten', divider='rainbow')
 
 
 #------------------------------------------------------------
